@@ -1,0 +1,42 @@
+html{
+
+		background-color: #993333;
+		color: white;
+		font-family: 'Fjalla One', sans-serif;
+		
+}
+
+img{
+		
+		border-radius: 50px;
+		width: 200px;
+		border-width: 20px;
+		
+}
+
+p{
+
+		color: black;
+		text-align: center;
+		
+}
+
+button{ 
+
+		background-color: black;
+		border-color: white;
+		border-width: 15px;
+		height: 15px;
+		border-radius: 1px;
+}
+
+h1{
+
+		text-align: center;
+		color: white;
+		border: 1px solid black;
+		border-width: 5px;
+		height: 40px;
+		width: 200px;
+		
+}
